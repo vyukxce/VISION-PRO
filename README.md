@@ -1,4 +1,4 @@
-# 👁️ VISION‑PRO — Visual Showcase Website
+# ✨️ VISION‑PRO — Visual Showcase Website
 
 **VISION‑PRO** is a visually rich showcase website designed using **HTML, CSS, and JavaScript** with custom graphics and modern UI to demonstrate frontend visual design and layout capabilities.
 
@@ -94,6 +94,7 @@ This kind of visual work makes recruiters stop and explore your profile longer.
 - Integration of graphics and web assets
 - Visual hierarchy and spacing
 - Lightweight JS effects (if applicable)
+- How canvas work in webpage
 
 ---
 
